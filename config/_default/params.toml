@@ -18,7 +18,7 @@ darkToggle = false
   showRecent = false
 
 [article]
-  showDate = true
+  showDate = false
   dateFormat = "2 January 2006"
   showAuthor = true
   showBreadcrumbs = false
@@ -28,7 +28,7 @@ darkToggle = false
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = true
-  showReadingTime = true
+  showReadingTime = false
   # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
 
 [list]
