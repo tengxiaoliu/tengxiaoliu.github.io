@@ -3,7 +3,11 @@ name: GitHub Pages
 on:
   push:
     branches:
+<<<<<<< Updated upstream
       - master
+=======
+      - master # change to the branch name for your project
+>>>>>>> Stashed changes
 
 jobs:
   build-deploy:
