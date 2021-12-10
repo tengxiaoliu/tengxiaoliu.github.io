@@ -6,17 +6,7 @@
     <description>Recent content on Tengxiao&#39;s Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2021 Tengxiao</copyright>
-    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tengxiaoliu.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How to deploy Hugo on Github Page</title>
-      <link>https://tengxiaoliu.github.io/posts/test/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://tengxiaoliu.github.io/posts/test/</guid>
-      <description>This is a test blog page.</description>
-    </item>
-    
+    <copyright>© 2021 Tengxiao</copyright><atom:link href="https://tengxiaoliu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hi there! :waving_hand:</title>
       <link>https://tengxiaoliu.github.io/about/</link>
