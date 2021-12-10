@@ -32,4 +32,4 @@ Berkeley International Study Program, GPA: 4.0/4.0
 
 * **University of Alberta** (Summer 2019)
 
-
+Heart disease research using statistical machine learning.
