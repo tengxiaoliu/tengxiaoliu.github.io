@@ -1,0 +1,49 @@
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+# https://jpanther.github.io/congo/docs/getting-started/
+
+baseURL = "https://tengxiaoliu.github.io/"
+languageCode = "en"
+defaultContentLanguage = "en"
+theme = "congo"
+
+title = "Tengxiao's Page"
+copyright = "© 2021 Tengxiao"
+
+enableEmoji = true
+enableRobotsTXT = true
+
+summaryLength = 0
+
+[author]
+  name = "Tengxiao Liu"
+  image = "img/author.jpg"
+  bio = "Go big or go home."
+  links = [
+    { email = "txliu21@m.fudan.edu.cn" },
+    { github = "https://github.com/tengxiaoliu" },
+    { linkedin = "https://www.linkedin.com/in/tengxiao-liu-7a7a091aa/" },
+  #   { dev = "https://dev.to/username" },
+  #   { discord = "https://discord.gg/invitecode" },
+  #   { dribbble = "https://dribbble.com/username" },
+  #   { facebook = "https://facebook.com/username" },
+  #   { foursquare = "https://foursquare.com/username" },
+  #   { github = "https://github.com/username" },
+  #   { gitlab = "https://gitlab.com/username" },
+  #   { instagram = "https://instagram.com/username" },
+  #   { keybase = "https://keybase.io/username" },
+  #   { lastfm = "https://lastfm.com/user/username" },
+  #   { linkedin = "https://www.linkedin.com/in/tengxiao-liu-7a7a091aa/" },
+  #   { mastodon = "https://mastodon.instance/@username" },
+  #   { medium = "https://medium.com/username" },
+  #   { pinterest = "https://pinterest.com/username" },
+  #   { reddit = "https://reddit.com/user/username" },
+  #   { slack = "https://workspace.url/team/userid" },
+  #   { snapchat = "https://snapchat.com/add/username" },
+  #   { soundcloud = "https://soundcloud.com/username" },
+  #   { steam = "https://steamcommunity.com/profiles/userid" },
+  #   { tiktok = "https://tiktok.com/@username" },
+  #   { twitch = "https://twitch.tv/username" },
+  #   { twitter = "https://twitter.com/username" },
+  #   { youtube = "https://youtube.com/username" },
+  ]
