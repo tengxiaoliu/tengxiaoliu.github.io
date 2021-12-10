@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Tengxiao&#39;s Page</title>
+    <link>https://tengxiaoliu.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on Tengxiao&#39;s Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2021 Tengxiao</copyright>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tengxiaoliu.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to deploy Hugo on Github Page</title>
+      <link>https://tengxiaoliu.github.io/posts/test/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tengxiaoliu.github.io/posts/test/</guid>
+      <description>This is a test blog page.</description>
+    </item>
+    
+  </channel>
+</rss>
