@@ -6,6 +6,25 @@
     <description>Recent content in Tags on Tengxiao&#39;s Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2021 Tengxiao</copyright><atom:link href="https://tengxiaoliu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2022 Tengxiao</copyright>
+    <lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tengxiaoliu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>docker</title>
+      <link>https://tengxiaoliu.github.io/tags/docker/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tengxiaoliu.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://tengxiaoliu.github.io/tags/hugo/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tengxiaoliu.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
