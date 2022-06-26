@@ -27,10 +27,15 @@ To enable Fathom Analytics support, simply provide your Fathom site code in the 
 
 Google Analytics support is provided through the internal Hugo partial. Simply provide the `googleAnalytics` key in the `config/_default/config.toml` file and the script will be added automatically.
 
+Both version 3 (analytics.js) and version 4 (gtag.js) are supported, based on the configuration value provided:
+
 ```toml
 # config/_default/config.toml
 
+# version 3
 googleAnalytics = "UA-PROPERTY_ID"
+# version 4
+googleAnalytics = "G-MEASUREMENT_ID"
 ```
 
 ### Custom analytics providers
@@ -72,7 +77,11 @@ Similar to the [icon shortcode]({{< ref "shortcodes#icon" >}}), you can include 
   {{ partial "icon.html" "github" }}
 ```
 
-Congo includes a number of built-in icons for social, links and other purposes. You can also provide your own icon assets by including the SVG in `assets/icons/`.
+Icons are populated using Hugo pipelines which makes them very flexible. Congo includes a number of built-in icons for social, links and other purposes. Check the [icon samples]({{< ref "samples/icons" >}}) page for a full list of supported icons.
+
+Custom icons can be added by providing your own icon assets in the `assets/icons/` directory of your project. The icon can then be referenced in the partial by using the SVG filename without the `.svg` extension.
+
+Icons can also be used in article content by calling the [icon shortcode]({{< ref "shortcodes#icon" >}}).
 
 ## Extensions
 

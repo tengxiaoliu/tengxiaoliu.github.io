@@ -1,9 +1,9 @@
 +++
-title= "Hi there! :waving_hand:"
+title= "Greetings! :wave:"
 type= "about"
 +++
 
-I'm Tengxiao Liu, a first-year MSc student at Fudan University, advised by Prof. [Xipeng Qiu](xpqiu.github.io). 
+I'm Tengxiao Liu, a first-year MSc student at Fudan University, advised by Prof. [Xipeng Qiu](https://xpqiu.github.io). 
 Before joining Fudan, I received my bachelor degree at Xi'an Jiaotong University in 2021.
 
 I am currently working in the area of Natural Language Processing and its applications, especially Question Answering.

@@ -15,16 +15,26 @@ In addition to all the [default Hugo shortcodes](https://gohugo.io/content-manag
 
 The input is written in Markdown so you can format it however you please.
 
+By default, the alert is presented with an exclaimation triangle icon. To change the icon, include the icon name in the shortcode. Check out the [icon shortcode](#icon) for more details on using icons.
+
 **Example:**
 
 ```md
 {{</* alert */>}}
 **Warning!** This action is destructive!
 {{</* /alert */>}}
+
+{{</* alert "twitter" */>}}
+Don't forget to [follow me](https://twitter.com/jpanther) on Twitter.
+{{</* /alert */>}}
 ```
 
 {{< alert >}}
 **Warning!** This action is destructive!
+{{< /alert >}}
+&nbsp;
+{{< alert "twitter" >}}
+Don't forget to [follow me](https://twitter.com/jpanther) on Twitter.
 {{< /alert >}}
 
 ## Badge
@@ -95,6 +105,47 @@ data: {
 
 You can see some additional Chart.js examples on the [charts samples]({{< ref "charts" >}}) page.
 
+## Figure
+
+Congo includes a `figure` shortcode for adding images to content. The shortcode replaces the base Hugo functionality in order to provide additional performance benefits.
+
+When a provided image is a page resource, it will be optimised using Hugo Pipes and scaled in order to provide images appropriate to different device resolutions. If a static asset or URL to an external image is provided, it will be included as-is without any image processing by Hugo.
+
+The `figure` shortcode accepts six parameters:
+
+<!-- prettier-ignore-start -->
+|Parameter|Description|
+|---|---|
+|`src`| **Required.** The local path/filename or URL of the image. When providing a path and filename, the theme will attempt to locate the image using the following lookup order: Firstly, as a [page resource](https://gohugo.io/content-management/page-resources/) bundled with the page; then an asset in the `assets/` directory; then finally, a static image in the `static/` directory.|
+|`alt`|[Alternative text description](https://moz.com/learn/seo/alt-text) for the image.|
+|`caption`|Markdown for the image caption, which will be displayed below the image.|
+|`class`|Additional CSS classes to apply to the image.|
+|`href`|URL that the image should be linked to.|
+|`default`|Special parameter to revert to default Hugo `figure` behaviour. Simply provide `default=true` and then use normal [Hugo shortcode syntax](https://gohugo.io/content-management/shortcodes/#figure).|
+<!-- prettier-ignore-end -->
+
+Congo also supports automatic conversion of images included using standard Markdown syntax. Simply use the following format and the theme will handle the rest:
+
+```md
+![Alt text](image.jpg "Image caption")
+```
+
+**Example:**
+
+```md
+{{</* figure
+    src="abstract.jpg"
+    alt="Abstract purple artwork"
+    caption="Photo by [Jr Korpa](https://unsplash.com/@jrkorpa) on [Unsplash](https://unsplash.com/)"
+    */>}}
+
+<!-- OR -->
+
+![Abstract purple artwork](abstract.jpg "Photo by [Jr Korpa](https://unsplash.com/@jrkorpa) on [Unsplash](https://unsplash.com/)")
+```
+
+{{< figure src="abstract.jpg" alt="Abstract purple artwork" caption="Photo by [Jr Korpa](https://unsplash.com/@jrkorpa) on [Unsplash](https://unsplash.com/)" >}}
+
 ## Icon
 
 `icon` outputs an SVG icon and takes the icon name as its only parameter. The icon is scaled to match the current text size.
@@ -107,7 +158,9 @@ You can see some additional Chart.js examples on the [charts samples]({{< ref "c
 
 **Output:** {{< icon "github" >}}
 
-Icons are populated using Hugo pipelines which makes them very flexible. Congo ships with a default set of icons for social, email, and generic links. If you want to add your own icons, you can simply place them in `/assets/icons/` and reference them using the `icon` shortcode passing in the icon's filename (without the `.svg.` extension).
+Icons are populated using Hugo pipelines which makes them very flexible. Congo includes a number of built-in icons for social, links and other purposes. Check the [icon samples]({{< ref "samples/icons" >}}) page for a full list of supported icons.
+
+Custom icons can be added by providing your own icon assets in the `assets/icons/` directory of your project. The icon can then be referenced in the shortcode by using the SVG filename without the `.svg` extension.
 
 Icons can also be used in partials by calling the [icon partial]({{< ref "partials#icon" >}}).
 

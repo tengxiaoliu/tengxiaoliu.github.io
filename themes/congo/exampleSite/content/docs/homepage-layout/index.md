@@ -15,7 +15,7 @@ The layout of the homepage is controlled by the `homepage.layout` setting in the
 
 The default layout is the page layout. It's simply a normal content page that displays your Markdown content. It's great for static websites and provides a lot of flexibility.
 
-![Profile layout](home-page.jpg)
+![Screenshot of homepage layout](home-page.jpg)
 
 To enable the page layout, set `homepage.layout = "page"` in the `params.toml` configuration file.
 
@@ -23,9 +23,9 @@ To enable the page layout, set `homepage.layout = "page"` in the `params.toml` c
 
 The profile layout is great for personal websites and blogs. It puts the author's details front and centre by providing an image and links to social profiles.
 
-![Profile layout](home-profile.jpg)
+![Screenshot of profile layout](home-profile.jpg)
 
-The author information is provided in the `config.toml` configuration file. Refer to the [Getting Started]({{< ref "getting-started" >}}) and [Site Configuration]({{< ref "configuration#site-configuration" >}}) sections for parameter details.
+The author information is provided in the languages configuration file. Refer to the [Getting Started]({{< ref "getting-started" >}}) and [Language Configuration]({{< ref "configuration##language-and-i18n" >}}) sections for parameter details.
 
 Additionally, any Markdown content that is provided in the homepage content will be placed below the author profile. This allows extra flexibility for displaying a bio or other custom content using shortcodes.
 
@@ -49,4 +49,4 @@ All homepage layouts have the option of displaying recent articles below the mai
 
 ![Profile layout with recent articles](home-profile-list.jpg)
 
-The articles listed in this section are derived from the `homepage.mainSections` setting which allows for whatever content types you are using on your website. For instance, if you had content sections for _posts_ and _projects_ you could set this setting to `["posts", "projects"]` and all the articles in these two sections would be used to populate the recent list. The theme expects this setting to be an array so if you only use one section for all your content, you should set this accordingly: `["blog"]`.
+The articles listed in this section are derived from the `mainSections` setting which allows for whatever content types you are using on your website. For instance, if you had content sections for _posts_ and _projects_ you could set this setting to `["posts", "projects"]` and all the articles in these two sections would be used to populate the recent list. The theme expects this setting to be an array so if you only use one section for all your content, you should set this accordingly: `["blog"]`.

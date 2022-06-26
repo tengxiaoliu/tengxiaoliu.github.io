@@ -7,9 +7,12 @@
 
 colorScheme = "ocean"
 # darkMode = "auto"
-darkToggle = false
+# darkToggle = false
 # logo = "img/logo.jpg"
-# description = "My awesome website"
+defaultAppearance = "true"
+autoSwitchAppearance = "true"
+showAppearanceSwitcher = "true"
+
 # mainSections = ["section1", "section2"]
 # robots = ""
 
@@ -19,7 +22,7 @@ darkToggle = false
 
 [article]
   showDate = false
-  dateFormat = "2 January 2006"
+
   showAuthor = true
   showBreadcrumbs = false
   showDraftLabel = true
