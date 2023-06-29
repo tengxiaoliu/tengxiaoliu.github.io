@@ -41,7 +41,7 @@ Berkeley International Study Program, GPA: 4.0/4.0
 Heart disease research using statistical machine learning.
 
 
-## Publication
+<!-- ## Publication
 
 * [Full Parameter Fine-tuning for Large Language Models with Limited Resources](https://arxiv.org/pdf/2306.09782.pdf)
 
@@ -54,5 +54,5 @@ EMNLP, 2022
 * [Application of a Domain-specific BERT for Detection of Speech Recognition Errors in Radiology Reports](https://pubmed.ncbi.nlm.nih.gov/35923373/)
 
 Radiology: Artificiall Intelligence, 2022
-
+ -->
 
