@@ -8,7 +8,7 @@
 colorScheme = "ocean"
 # darkMode = "auto"
 # darkToggle = false
-# logo = "img/logo.jpg"
+logo = "img/fudan.png"
 defaultAppearance = "true"
 autoSwitchAppearance = "true"
 showAppearanceSwitcher = "true"

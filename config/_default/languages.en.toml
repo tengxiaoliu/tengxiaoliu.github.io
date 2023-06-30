@@ -10,7 +10,7 @@ rtl = false
 # Language-specific parameters go here
 title = "Tengxiao's Page"
 description = "Personal website"
-copyright = "© 2022 Tengxiao"
+copyright = "© 2023 Tengxiao"
 dateFormat = "2 January 2006"
 
 [author]
