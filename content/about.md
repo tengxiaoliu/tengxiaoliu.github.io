@@ -1,7 +1,6 @@
 +++
 title= "Greetings! :wave:"
 type= "about"
-icon= "img/fudan.png"
 +++
 
 I'm Tengxiao Liu, a second-year MSc student at Fudan University, advised by Prof. [Xipeng Qiu](https://xpqiu.github.io). 
