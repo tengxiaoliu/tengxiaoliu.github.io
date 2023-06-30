@@ -1,6 +1,7 @@
 +++
 title= "Greetings! :wave:"
 type= "about"
+icon= "img/fudan.png"
 +++
 
 I'm Tengxiao Liu, a second-year MSc student at Fudan University, advised by Prof. [Xipeng Qiu](https://xpqiu.github.io). 
@@ -45,9 +46,9 @@ Heart disease research using statistical machine learning.
 
 * **Full Parameter Fine-tuning for Large Language Models with Limited Resources** [paper](https://arxiv.org/pdf/2306.09782.pdf)
 
-Kai Lv, Yuqing Yang, **Tengxiao Liu**, Qinghui Gao, Qipeng Guo, Xipeng Qiu
-
 Arxiv, 2023
+
+Kai Lv, Yuqing Yang, **Tengxiao Liu**, Qinghui Gao, Qipeng Guo, Xipeng Qiu
 
 we propose a new optimizer, LOw-Memory Optimization (LOMO), which fuses the gradient computation and the parameter update in one step to reduce memory usage. By integrating LOMO with existing memory saving techniques, we reduce memory usage to 10.8% compared to the standard approach (DeepSpeed solution). Consequently, our approach enables the full parameter fine-tuning of a 65B model on a single machine with 8 RTX 3090, each with 24GB memory.
 
