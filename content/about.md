@@ -10,7 +10,7 @@ I am currently working in the area of Natural Language Processing and its applic
 
 ## Education
 
-* **Fudan University** (2021 - present)
+* **Fudan University** (2021 - expected 2024)
 
 Master of Science in Computer Science
 
