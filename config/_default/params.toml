@@ -32,6 +32,7 @@ showAppearanceSwitcher = "true"
   showHeadingAnchors = true
   showPagination = true
   showReadingTime = false
+  showTableOfContents = true
   # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
 
 [list]

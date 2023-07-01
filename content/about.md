@@ -8,6 +8,8 @@ Before joining Fudan, I received my bachelor degree at Xi'an Jiaotong University
 
 I am currently working in the area of Natural Language Processing and its applications, especially Question Answering and LLM reasoning.
 
+[\[Github\]](https://github.com/tengxiaoliu/) [\[CV\]](https://drive.google.com/file/d/1zBbBRokyTNTHLIv8XgsIYTApB5_vzLpi/view?usp=sharing) 
+
 ## Education
 
 * **Fudan University** (2021 - expected 2024)
@@ -38,11 +40,11 @@ Honor's Youth Program
 * **University of California, San Francisco** (Feb 2020 - Mar 2021)
 Undergraduate research assistant at Big Data in Radiology, UCSF, advised by Jae Ho Sohn, MD, MS
 
-* **University of Alberta** (Summer 2019)
-Heart disease research using statistical machine learning, advised by Prof. Linglong Kong
-
 * **Huawei** (Summer 2020)
 SDE intern at Smart Wearable and Sports Health PDU
+
+* **University of Alberta** (Summer 2019)
+Heart disease research using statistical machine learning, advised by Prof. Linglong Kong
 
 
 ## Publications
