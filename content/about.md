@@ -8,7 +8,7 @@ Before joining Fudan, I received my bachelor degree at Xi'an Jiaotong University
 
 I am currently working in the area of Natural Language Processing and its applications, especially Question Answering and LLM reasoning.
 
-[\[Github\]](https://github.com/tengxiaoliu/) [\[CV\]](https://drive.google.com/file/d/1zBbBRokyTNTHLIv8XgsIYTApB5_vzLpi/view?usp=sharing) 
+[\[Github\]](https://github.com/tengxiaoliu/) [\[CV\]](https://tengxiaoliu.github.io/file/cv_Tengxiao_Liu.pdf) 
 
 ## Education
 
@@ -35,7 +35,7 @@ Honor's Youth Program
 
 ## Experience
 
-* **Amazon AWS AI** (Mar 2021 - Present) Research intern at AWS Shanghai AI Lab, advised by Dr.Qipeng Guo, Prof. Yue Zhang and Prof. Zheng Zhang
+* **Amazon AWS AI** (Mar 2021 - Present) Research intern at AWS Shanghai AI Lab, advised by Dr. Qipeng Guo, Prof. Yue Zhang and Prof. Zheng Zhang
 
 * **University of California, San Francisco** (Feb 2020 - Mar 2021)
 Undergraduate research assistant at Big Data in Radiology, UCSF, advised by Jae Ho Sohn, MD, MS
@@ -75,4 +75,4 @@ To develop radiology domain-specific bidirectional encoder representations from 
 
 
 ## Professional Services
-Reviewer for AACL 2022, 2023
+Reviewer for AACL 2022
