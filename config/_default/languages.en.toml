@@ -8,9 +8,9 @@ weight = 1
 rtl = false
 
 # Language-specific parameters go here
-title = "Tengxiao's Page"
+title = "Tengxiao Liu"
 description = "Personal website"
-copyright = "© 2023 Tengxiao"
+copyright = "© 2023 Tengxiao Liu"
 dateFormat = "2 January 2006"
 
 [author]

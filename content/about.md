@@ -22,11 +22,11 @@ Supervisor: Prof. Xipeng Qiu
 
 Bachelor of Honors Science Program (Computer Science)
 
-GPA: 91.92 / 100, Ranking 2 / 32
+GPA: 91.92 / 100, Ranking: 2 / 32
 
 * **University of California, Berkeley** (Spring 2020)
 
-Berkeley International Study Program - Letters & Science , GPA: 4.0/4.0
+GPA: 4.0/4.0, Berkeley International Study Program - Letters & Science (Computer Science)
 
 * **Xi'an Jiaotong University** (2015 - 2017)
 
