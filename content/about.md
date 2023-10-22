@@ -3,7 +3,7 @@ title= "Greetings! :wave:"
 type= "about"
 +++
 
-I'm Tengxiao Liu, a second-year MSc student at Fudan University, advised by Prof. [Xipeng Qiu](https://xpqiu.github.io). Meanwhile, I'm currently a research intern at AWS Shanghai AI Lab, working closely with Prof. [Yue Zhang](https://frcchang.github.io/) and Prof. [Zheng Zhang](https://research.shanghai.nyu.edu/cn/centers-and-institutes/datascience/people/zheng-zhang).
+I'm Tengxiao Liu, a third-year MSc student at Fudan University, advised by Prof. [Xipeng Qiu](https://xpqiu.github.io). Meanwhile, I'm currently a research intern at AWS Shanghai AI Lab, working closely with Prof. [Yue Zhang](https://frcchang.github.io/) and Prof. [Zheng Zhang](https://research.shanghai.nyu.edu/cn/centers-and-institutes/datascience/people/zheng-zhang).
 Before joining Fudan, I received my bachelor degree at Xi'an Jiaotong University in 2021.
 
 I am currently working in the area of Natural Language Processing and its applications, especially Question Answering and LLM reasoning.
@@ -49,6 +49,14 @@ Heart disease research using statistical machine learning, advised by Prof. Ling
 
 ## Publications
 
+* **Plan, Verify and Switch: Integrated Reasoning with Diverse X-of-Thoughts** [paper]()
+
+**Tengxiao Liu**, Qipeng Guo, Yuqing Yang, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang
+
+EMNLP, 2023
+
+We find that different prompting methods have formed a great complementarity to each other on reasoning tasks. We propose XoT, an automatic problem solving framework by prompting LLMs with diverse reasoning thoughts. For each question, XoT always begins with selecting the most suitable method then executes each method iteratively. Within each iteration, XoT actively checks the validity of the generated answer and incorporates the feedback from external executors, allowing it to dynamically switch among different prompting methods. We demonstrate the effectiveness of our proposed approach and empirical results suggest that our framework can further generalise to logical reasoning domain. 
+
 * **Full Parameter Fine-tuning for Large Language Models with Limited Resources** [paper](https://arxiv.org/pdf/2306.09782.pdf)
 
 Kai Lv, Yuqing Yang, **Tengxiao Liu**, Qinghui Gao, Qipeng Guo, Xipeng Qiu
@@ -74,5 +82,5 @@ Radiology: Artificiall Intelligence, 2022
 To develop radiology domain-specific bidirectional encoder representations from transformers (BERT) models that can identify speech recognition (SR) errors and suggest corrections in radiology reports, we propose Radiology BERT. Our Radiology-specific BERT models fine-tuned on generated errors were able to identify SR errors in radiology reports and suggest corrections.
 
 
-## Professional Services
-Reviewer for AACL 2022
+<!-- ## Professional Services
+Reviewer for AACL 2022 -->
