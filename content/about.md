@@ -49,37 +49,37 @@ Heart disease research using statistical machine learning, advised by Prof. Ling
 
 ## Publications
 
-* **Plan, Verify and Switch: Integrated Reasoning with Diverse X-of-Thoughts** [paper]()
+* **Plan, Verify and Switch: Integrated Reasoning with Diverse X-of-Thoughts** [[paper]](https://arxiv.org/pdf/2310.14628v1.pdf)
 
 **Tengxiao Liu**, Qipeng Guo, Yuqing Yang, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang
 
 EMNLP, 2023
 
-We find that different prompting methods have formed a great complementarity to each other on reasoning tasks. We propose XoT, an automatic problem solving framework by prompting LLMs with diverse reasoning thoughts. For each question, XoT always begins with selecting the most suitable method then executes each method iteratively. Within each iteration, XoT actively checks the validity of the generated answer and incorporates the feedback from external executors, allowing it to dynamically switch among different prompting methods. We demonstrate the effectiveness of our proposed approach and empirical results suggest that our framework can further generalise to logical reasoning domain. 
 
-* **Full Parameter Fine-tuning for Large Language Models with Limited Resources** [paper](https://arxiv.org/pdf/2306.09782.pdf)
+* **CoLLiE: Collaborative Training of Large Language Models in an Efficient Way** [[paper]]()
+
+Kai Lv*, Shuo Zhang*, Tianle Gu, Shuhao Xing, Jiawei Hong, Keyu Chen, Xiaoran Liu, Yuqing Yang, Honglin Guo, **Tengxiao Liu**, Yu Sun, Qipeng Guo, Hang Yan, Xipeng Qiu
+
+EMNLP Demo, 2023
+
+* **Full Parameter Fine-tuning for Large Language Models with Limited Resources** [[paper]](https://arxiv.org/pdf/2306.09782.pdf)
 
 Kai Lv, Yuqing Yang, **Tengxiao Liu**, Qinghui Gao, Qipeng Guo, Xipeng Qiu
 
 Preprint, 2023
 
-We propose a new optimizer, LOw-Memory Optimization (LOMO), which fuses the gradient computation and the parameter update in one step to reduce memory usage. By integrating LOMO with existing memory saving techniques, we reduce memory usage to 10.8% compared to the standard approach (DeepSpeed solution). Consequently, our approach enables the full parameter fine-tuning of a 65B model on a single machine with 8 RTX 3090, each with 24GB memory.
-
-* **RLET: A Reinforcement Learning Based Approach for Explainable QA with Entailment Trees** [paper](https://www.aclanthology.org/2022.emnlp-main.483.pdf)
+* **RLET: A Reinforcement Learning Based Approach for Explainable QA with Entailment Trees** [[paper]](https://www.aclanthology.org/2022.emnlp-main.483.pdf)
 
 **Tengxiao Liu**, Qipeng Guo, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang
 
 EMNLP, 2022
 
-We propose RLET, a Reinforcement Learning based Entailment Tree generation framework, which is trained utilising the cumulative signals across the whole tree. RLET iteratively performs single step reasoning with sentence selection and deduction generation modules, from which the training signal is accumulated across the tree with elaborately designed aligned reward function that is consistent with the evaluation. To the best of our knowledge, we are the first to introduce RL into the entailment tree generation task. Experiments on three settings of the EntailmentBank dataset demonstrate the strength of using RL framework. 
 
-* **Application of a Domain-specific BERT for Detection of Speech Recognition Errors in Radiology Reports** [paper](https://pubmed.ncbi.nlm.nih.gov/35923373/)
+* **Application of a Domain-specific BERT for Detection of Speech Recognition Errors in Radiology Reports** [[paper]](https://pubmed.ncbi.nlm.nih.gov/35923373/)
 
 Gunvant R. Chaudhari, **Tengxiao Liu**, Timothy L. Chen, Gabby B. Joseph, Maya Vella, Yoo Jin Lee, Thienkhai H. Vu, Youngho Seo, Andreas M. Rauschecker, Charles E. McCulloch, Jae Ho Sohn
 
 Radiology: Artificiall Intelligence, 2022
-
-To develop radiology domain-specific bidirectional encoder representations from transformers (BERT) models that can identify speech recognition (SR) errors and suggest corrections in radiology reports, we propose Radiology BERT. Our Radiology-specific BERT models fine-tuned on generated errors were able to identify SR errors in radiology reports and suggest corrections.
 
 
 <!-- ## Professional Services
