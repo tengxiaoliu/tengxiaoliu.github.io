@@ -4,7 +4,7 @@ type= "about"
 +++
 
 I'm Tengxiao Liu, a third-year MSc student at Fudan University, advised by Prof. [Xipeng Qiu](https://xpqiu.github.io). Meanwhile, I'm currently a research intern at AWS Shanghai AI Lab, working closely with Prof. [Yue Zhang](https://frcchang.github.io/) and Prof. [Zheng Zhang](https://research.shanghai.nyu.edu/cn/centers-and-institutes/datascience/people/zheng-zhang).
-Before joining Fudan, I received my bachelor degree at Xi'an Jiaotong University in 2021.
+Before joining Fudan, I received my bachelor degree from Special Gifted Young Program at Xi'an Jiaotong University in 2021.
 
 I am currently working in the area of Natural Language Processing and its applications, especially Question Answering and LLM reasoning.
 
@@ -58,7 +58,7 @@ EMNLP, 2023
 
 * **CoLLiE: Collaborative Training of Large Language Models in an Efficient Way** [[paper]]()
 
-Kai Lv*, Shuo Zhang*, Tianle Gu, Shuhao Xing, Jiawei Hong, Keyu Chen, Xiaoran Liu, Yuqing Yang, Honglin Guo, **Tengxiao Liu**, Yu Sun, Qipeng Guo, Hang Yan, Xipeng Qiu
+Kai Lv, Shuo Zhang, Tianle Gu, Shuhao Xing, Jiawei Hong, Keyu Chen, Xiaoran Liu, Yuqing Yang, Honglin Guo, **Tengxiao Liu**, Yu Sun, Qipeng Guo, Hang Yan, Xipeng Qiu
 
 EMNLP Demo, 2023
 
