@@ -9,7 +9,7 @@ rtl = false
 
 # Language-specific parameters go here
 title = "Tengxiao Liu"
-description = "Personal website"
+description = "Tengxiao Liu, Fudan University"
 copyright = "© 2023 Tengxiao Liu"
 dateFormat = "2 January 2006"
 
@@ -21,6 +21,7 @@ dateFormat = "2 January 2006"
     { email = "txliu21@m.fudan.edu.cn" },
     { github = "https://github.com/tengxiaoliu" },
     { linkedin = "https://www.linkedin.com/in/tengxiao-liu-7a7a091aa/" },
+    { cv = "https://tengxiaoliu.github.io/file/cv_Tengxiao_Liu.pdf" }
   #   { dev = "https://dev.to/username" },
   #   { discord = "https://discord.gg/invitecode" },
   #   { dribbble = "https://dribbble.com/username" },
