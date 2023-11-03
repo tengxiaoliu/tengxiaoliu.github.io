@@ -1,5 +1,7 @@
 +++
-title= "Greetings! :wave:"
+description: Tengxiao Liu, Fudan University
+title= "About"
+layout: "simple"
 type= "about"
 +++
 
