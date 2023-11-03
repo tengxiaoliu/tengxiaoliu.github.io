@@ -1,8 +1,9 @@
 +++
-description: Tengxiao Liu, Fudan University
+description= "Tengxiao Liu, Fudan University"
 title= "About"
-layout: "simple"
+layout= "simple"
 type= "about"
+showTableOfContents= false
 +++
 
 I'm Tengxiao Liu, a third-year MSc student at Fudan University, advised by Prof. [Xipeng Qiu](https://xpqiu.github.io). Meanwhile, I'm currently a research intern at AWS Shanghai AI Lab, working closely with Prof. [Yue Zhang](https://frcchang.github.io/) and Prof. [Zheng Zhang](https://research.shanghai.nyu.edu/cn/centers-and-institutes/datascience/people/zheng-zhang).
