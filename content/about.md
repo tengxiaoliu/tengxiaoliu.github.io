@@ -9,8 +9,8 @@ showTableOfContents= false
 <style>
   p {
     line-height: 1.3;
-    margin-top: 8px;
-    margin-bottom: 8px;
+    margin-top: 6px;
+    margin-bottom: 6px;
   }
 </style>
 
