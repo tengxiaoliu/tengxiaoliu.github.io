@@ -8,7 +8,7 @@ showTableOfContents= false
 
 <style>
   p {
-    line-height: 1.35;
+    line-height: 1.4;
   }
 
 </style>
@@ -36,19 +36,7 @@ GPA: 4.0/4.0, Berkeley International Study Program - Letters & Science (Computer
 
 
 
-## Experience
 
-* **Amazon AWS AI** (Mar 2021 - Present)\
-Research intern at AWS Shanghai AI Lab, advised by Dr. Qipeng Guo, Prof. Yue Zhang and Prof. Zheng Zhang
-
-* **University of California, San Francisco** (Feb 2020 - Mar 2021)\
-Undergraduate research assistant at Big Data in Radiology, UCSF, advised by Jae Ho Sohn, MD, MS
-
-* **Huawei** (Summer 2020)\
-SDE intern 
-
-* **University of Alberta** (Summer 2019)\
-Heart disease research using statistical machine learning, advised by Prof. Linglong Kong
 
 
 ## Publications
@@ -73,6 +61,20 @@ EMNLP, 2022
 Gunvant R. Chaudhari, **Tengxiao Liu**, Timothy L. Chen, Gabby B. Joseph, Maya Vella, Yoo Jin Lee, Thienkhai H. Vu, Youngho Seo, Andreas M. Rauschecker, Charles E. McCulloch, Jae Ho Sohn\
 Radiology: Artificiall Intelligence, 2022
 
+
+## Experience
+
+* **Amazon AWS AI** (Mar 2021 - Present)\
+Research intern at AWS Shanghai AI Lab, advised by Dr. Qipeng Guo, Prof. Yue Zhang and Prof. Zheng Zhang
+
+* **University of California, San Francisco** (Feb 2020 - Mar 2021)\
+Undergraduate research assistant at Big Data in Radiology, UCSF, advised by Jae Ho Sohn, MD, MS
+
+* **Huawei** (Summer 2020)\
+SDE intern 
+
+* **University of Alberta** (Summer 2019)\
+Heart disease research using statistical machine learning, advised by Prof. Linglong Kong
 
 <!-- ## Professional Services
 Reviewer for AACL 2022 -->
