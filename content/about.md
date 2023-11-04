@@ -8,7 +8,7 @@ showTableOfContents= false
 
 <style>
   p {
-    line-height: 1.2;
+    line-height: 1.3;
   }
 </style>
 
@@ -42,16 +42,21 @@ I am currently working in the area of Natural Language Processing and its applic
 
 ## Experience
 
-* **Amazon AWS AI** (Mar 2021 - Present) Research intern at AWS Shanghai AI Lab, advised by Dr. Qipeng Guo, Prof. Yue Zhang and Prof. Zheng Zhang
+* **Amazon AWS AI** (Mar 2021 - Present) 
+
+  Research intern at AWS Shanghai AI Lab, advised by Dr. Qipeng Guo, Prof. Yue Zhang and Prof. Zheng Zhang
 
 * **University of California, San Francisco** (Feb 2020 - Mar 2021)
-Undergraduate research assistant at Big Data in Radiology, UCSF, advised by Jae Ho Sohn, MD, MS
+
+  Undergraduate research assistant at Big Data in Radiology, UCSF, advised by Jae Ho Sohn, MD, MS
 
 * **Huawei** (Summer 2020)
-SDE intern 
+
+  SDE intern 
 
 * **University of Alberta** (Summer 2019)
-Heart disease research using statistical machine learning, advised by Prof. Linglong Kong
+
+  Heart disease research using statistical machine learning, advised by Prof. Linglong Kong
 
 
 ## Publications
@@ -79,7 +84,6 @@ Heart disease research using statistical machine learning, advised by Prof. Ling
     **Tengxiao Liu**, Qipeng Guo, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang
 
     EMNLP, 2022
-
 
 * **Application of a Domain-specific BERT for Detection of Speech Recognition Errors in Radiology Reports** [[paper]](https://pubmed.ncbi.nlm.nih.gov/35923373/)
 
