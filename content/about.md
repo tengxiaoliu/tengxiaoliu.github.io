@@ -11,10 +11,10 @@ showTableOfContents= false
     line-height: 1.35;
   }
 
-li p {
-  margin-top: 0;
-  margin-bottom: -5px;
-}
+/*li p {*/
+/*  margin-top: 0;*/
+/*  margin-bottom: -5px;*/
+/*}*/
 
 </style>
 
@@ -67,11 +67,9 @@ I am currently working in the area of Natural Language Processing and its applic
 
 ## Publications
 
-* **Plan, Verify and Switch: Integrated Reasoning with Diverse X-of-Thoughts** [[paper]](https://arxiv.org/pdf/2310.14628v1.pdf)
-
-    **Tengxiao Liu**, Qipeng Guo, Yuqing Yang, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang
-
-    EMNLP, 2023
+* **Plan, Verify and Switch: Integrated Reasoning with Diverse X-of-Thoughts** [[paper]](https://arxiv.org/pdf/2310.14628v1.pdf)\
+**Tengxiao Liu**, Qipeng Guo, Yuqing Yang, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang\
+EMNLP, 2023
 
 * **CoLLiE: Collaborative Training of Large Language Models in an Efficient Way** [[paper]]()
 
@@ -79,11 +77,9 @@ I am currently working in the area of Natural Language Processing and its applic
 
     EMNLP Demo, 2023
 
-* **Full Parameter Fine-tuning for Large Language Models with Limited Resources** [[paper]](https://arxiv.org/pdf/2306.09782.pdf)
-
-    Kai Lv, Yuqing Yang, **Tengxiao Liu**, Qinghui Gao, Qipeng Guo, Xipeng Qiu
-
-    Preprint, 2023
+* **Full Parameter Fine-tuning for Large Language Models with Limited Resources** [[paper]](https://arxiv.org/pdf/2306.09782.pdf)\
+Kai Lv, Yuqing Yang, **Tengxiao Liu**, Qinghui Gao, Qipeng Guo, Xipeng Qiu\
+Preprint, 2023
 
 * **RLET: A Reinforcement Learning Based Approach for Explainable QA with Entailment Trees** [[paper]](https://www.aclanthology.org/2022.emnlp-main.483.pdf)
 
