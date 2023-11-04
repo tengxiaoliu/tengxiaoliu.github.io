@@ -8,10 +8,14 @@ showTableOfContents= false
 
 <style>
   p {
-    line-height: 1.3;
-    margin-top: 6px;
-    margin-bottom: 6px;
+    line-height: 1.35;
   }
+
+li p {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
 </style>
 
 
