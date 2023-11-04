@@ -11,11 +11,6 @@ showTableOfContents= false
     line-height: 1.35;
   }
 
-/*li p {*/
-/*  margin-top: 0;*/
-/*  margin-bottom: -5px;*/
-/*}*/
-
 </style>
 
 
@@ -28,41 +23,32 @@ I am currently working in the area of Natural Language Processing and its applic
 
 ## Education
 
-* **Fudan University** (2021 - expected 2024)
+* **Fudan University** (2021 - expected 2024)\
+Master of Science in Computer Science \
+Supervisor: Prof. Xipeng Qiu
 
-    Master of Science in Computer Science
+* **Xi'an Jiaotong University** (2017 - 2021)\
+Bachelor of Honors Science Program (Computer Science), Special Young Gifted Program \
+GPA: 91.92 / 100, Ranking: 2 / 32
 
-    Supervisor: Prof. Xipeng Qiu
-
-* **Xi'an Jiaotong University** (2017 - 2021)
-
-    Bachelor of Honors Science Program (Computer Science), Special Young Gifted Program
-
-    GPA: 91.92 / 100, Ranking: 2 / 32
-
-* **University of California, Berkeley** (Spring 2020)
-
-    GPA: 4.0/4.0, Berkeley International Study Program - Letters & Science (Computer Science)
+* **University of California, Berkeley** (Spring 2020)\
+GPA: 4.0/4.0, Berkeley International Study Program - Letters & Science (Computer Science)
 
 
 
 ## Experience
 
-* **Amazon AWS AI** (Mar 2021 - Present) 
+* **Amazon AWS AI** (Mar 2021 - Present)\
+Research intern at AWS Shanghai AI Lab, advised by Dr. Qipeng Guo, Prof. Yue Zhang and Prof. Zheng Zhang
 
-  Research intern at AWS Shanghai AI Lab, advised by Dr. Qipeng Guo, Prof. Yue Zhang and Prof. Zheng Zhang
+* **University of California, San Francisco** (Feb 2020 - Mar 2021)\
+Undergraduate research assistant at Big Data in Radiology, UCSF, advised by Jae Ho Sohn, MD, MS
 
-* **University of California, San Francisco** (Feb 2020 - Mar 2021)
+* **Huawei** (Summer 2020)\
+SDE intern 
 
-  Undergraduate research assistant at Big Data in Radiology, UCSF, advised by Jae Ho Sohn, MD, MS
-
-* **Huawei** (Summer 2020)
-
-  SDE intern 
-
-* **University of Alberta** (Summer 2019)
-
-  Heart disease research using statistical machine learning, advised by Prof. Linglong Kong
+* **University of Alberta** (Summer 2019)\
+Heart disease research using statistical machine learning, advised by Prof. Linglong Kong
 
 
 ## Publications
@@ -71,27 +57,21 @@ I am currently working in the area of Natural Language Processing and its applic
 **Tengxiao Liu**, Qipeng Guo, Yuqing Yang, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang\
 EMNLP, 2023
 
-* **CoLLiE: Collaborative Training of Large Language Models in an Efficient Way** [[paper]]()
-
-    Kai Lv, Shuo Zhang, Tianle Gu, Shuhao Xing, Jiawei Hong, Keyu Chen, Xiaoran Liu, Yuqing Yang, Honglin Guo, **Tengxiao Liu**, Yu Sun, Qipeng Guo, Hang Yan, Xipeng Qiu
-
-    EMNLP Demo, 2023
+* **CoLLiE: Collaborative Training of Large Language Models in an Efficient Way** [[paper]]()\
+Kai Lv, Shuo Zhang, Tianle Gu, Shuhao Xing, Jiawei Hong, Keyu Chen, Xiaoran Liu, Yuqing Yang, Honglin Guo, **Tengxiao Liu**, Yu Sun, Qipeng Guo, Hang Yan, Xipeng Qiu\
+EMNLP Demo, 2023
 
 * **Full Parameter Fine-tuning for Large Language Models with Limited Resources** [[paper]](https://arxiv.org/pdf/2306.09782.pdf)\
 Kai Lv, Yuqing Yang, **Tengxiao Liu**, Qinghui Gao, Qipeng Guo, Xipeng Qiu\
 Preprint, 2023
 
-* **RLET: A Reinforcement Learning Based Approach for Explainable QA with Entailment Trees** [[paper]](https://www.aclanthology.org/2022.emnlp-main.483.pdf)
+* **RLET: A Reinforcement Learning Based Approach for Explainable QA with Entailment Trees** [[paper]](https://www.aclanthology.org/2022.emnlp-main.483.pdf)\
+**Tengxiao Liu**, Qipeng Guo, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang\
+EMNLP, 2022
 
-    **Tengxiao Liu**, Qipeng Guo, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang
-
-    EMNLP, 2022
-
-* **Application of a Domain-specific BERT for Detection of Speech Recognition Errors in Radiology Reports** [[paper]](https://pubmed.ncbi.nlm.nih.gov/35923373/)
-
-    Gunvant R. Chaudhari, **Tengxiao Liu**, Timothy L. Chen, Gabby B. Joseph, Maya Vella, Yoo Jin Lee, Thienkhai H. Vu, Youngho Seo, Andreas M. Rauschecker, Charles E. McCulloch, Jae Ho Sohn
-
-    Radiology: Artificiall Intelligence, 2022
+* **Application of a Domain-specific BERT for Detection of Speech Recognition Errors in Radiology Reports** [[paper]](https://pubmed.ncbi.nlm.nih.gov/35923373/)\
+Gunvant R. Chaudhari, **Tengxiao Liu**, Timothy L. Chen, Gabby B. Joseph, Maya Vella, Yoo Jin Lee, Thienkhai H. Vu, Youngho Seo, Andreas M. Rauschecker, Charles E. McCulloch, Jae Ho Sohn\
+* Radiology: Artificiall Intelligence, 2022
 
 
 <!-- ## Professional Services
