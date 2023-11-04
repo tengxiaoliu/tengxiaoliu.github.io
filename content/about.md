@@ -71,7 +71,7 @@ EMNLP, 2022
 
 * **Application of a Domain-specific BERT for Detection of Speech Recognition Errors in Radiology Reports** [[paper]](https://pubmed.ncbi.nlm.nih.gov/35923373/)\
 Gunvant R. Chaudhari, **Tengxiao Liu**, Timothy L. Chen, Gabby B. Joseph, Maya Vella, Yoo Jin Lee, Thienkhai H. Vu, Youngho Seo, Andreas M. Rauschecker, Charles E. McCulloch, Jae Ho Sohn\
-* Radiology: Artificiall Intelligence, 2022
+Radiology: Artificiall Intelligence, 2022
 
 
 <!-- ## Professional Services
