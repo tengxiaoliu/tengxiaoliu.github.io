@@ -16,7 +16,7 @@ showTableOfContents= false
 <!-- Add image and text side by side -->
 <div>
     <div style="width: 28%; float: right!important; margin-left: 3rem;">
-        <img src="/assets/img/author.jpg" width=100%>
+        <img src="../assets/img/author.jpg" width=100%>
     </div>
     <div>
         <p>
