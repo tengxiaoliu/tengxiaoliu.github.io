@@ -43,7 +43,8 @@ GPA: 4.0/4.0, Berkeley International Study Program - Letters & Science (Computer
 
 * **Plan, Verify and Switch: Integrated Reasoning with Diverse X-of-Thoughts** [[paper]](https://arxiv.org/pdf/2310.14628v1.pdf)\
 **Tengxiao Liu**, Qipeng Guo, Yuqing Yang, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang\
-EMNLP, 2023
+EMNLP, 2023\
+NeurIPS 2023 MATH-AI Workshop
 
 * **CoLLiE: Collaborative Training of Large Language Models in an Efficient Way** [[paper]]()\
 Kai Lv, Shuo Zhang, Tianle Gu, Shuhao Xing, Jiawei Hong, Keyu Chen, Xiaoran Liu, Yuqing Yang, Honglin Guo, **Tengxiao Liu**, Yu Sun, Qipeng Guo, Hang Yan, Xipeng Qiu\
