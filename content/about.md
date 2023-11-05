@@ -13,9 +13,18 @@ showTableOfContents= false
 
 </style>
 
+<!-- Add image and text side by side -->
+<div>
+    <div style="width: 28%; float: right!important; margin-left: 3rem;">
+        <img src="/assets/img/author.jpg" width=100%>
+    </div>
+    <div>
+        <p>
+            I'm Tengxiao Liu, a third-year MSc student at Fudan University, advised by Prof. <a href="https://xpqiu.github.io">Prof. Xipeng Qiu</a>. Meanwhile, I'm currently a research intern at AWS Shanghai AI Lab, working closely with Prof. Yue Zhang and Prof. Zheng Zhang. Before joining Fudan, I received my bachelor degree from Special Gifted Young Program at Xi'an Jiaotong University in 2021.
+        </p>
+    </div>
+</div>
 
-I'm Tengxiao Liu, a third-year MSc student at Fudan University, advised by Prof. [Xipeng Qiu](https://xpqiu.github.io). Meanwhile, I'm currently a research intern at AWS Shanghai AI Lab, working closely with Prof. [Yue Zhang](https://frcchang.github.io/) and Prof. [Zheng Zhang](https://research.shanghai.nyu.edu/cn/centers-and-institutes/datascience/people/zheng-zhang).
-Before joining Fudan, I received my bachelor degree from Special Gifted Young Program at Xi'an Jiaotong University in 2021.
 
 I am currently working in the area of Natural Language Processing and its applications, especially Question Answering and LLM reasoning.
 
@@ -32,7 +41,7 @@ Bachelor of Honors Science Program (Computer Science), Special Young Gifted Prog
 GPA: 91.92 / 100, Ranking: 2 / 32
 
 * **University of California, Berkeley** (Spring 2020)\
-GPA: 4.0/4.0, Berkeley International Study Program - Letters & Science (Computer Science)
+GPA: 4.0 / 4.0, Berkeley International Study Program - Letters & Science (Computer Science)
 
 
 
