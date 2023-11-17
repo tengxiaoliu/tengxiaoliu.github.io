@@ -38,7 +38,7 @@ Master of Science in Computer Science \
 Supervisor: Prof. Xipeng Qiu
 
 * **Xi'an Jiaotong University** (2017 - 2021)\
-Bachelor of Honors Science Program (Computer Science), Special Young Gifted Program \
+Bachelor of Honors Science Program (Computer Science), [Special Class for the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) \
 GPA: 91.92 / 100, Ranking: 2 / 32
 
 * **University of California, Berkeley** (Spring 2020)\
