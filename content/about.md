@@ -21,7 +21,7 @@ showTableOfContents= false
     </div>
     <div>
         <p style="text-align: justify;">
-            I'm Tengxiao Liu, a third-year MSc student at Fudan University, advised by Prof. <a href="https://xpqiu.github.io">Xipeng Qiu</a>. Meanwhile, I'm currently a research intern at AWS Shanghai AI Lab, working closely with Prof. <a href="https://frcchang.github.io/">Prof. Yue Zhang</a> and Prof. <a href="https://research.shanghai.nyu.edu/cn/centers-and-institutes/datascience/people/zheng-zhang">Prof. Zheng Zhang</a>. Before joining Fudan, I received my bachelor degree from Special Gifted Young Program at Xi'an Jiaotong University in 2021.
+            I'm Tengxiao Liu, a third-year MSc student at Fudan University, advised by Prof. <a href="https://xpqiu.github.io">Xipeng Qiu</a>. Meanwhile, I'm currently a research intern at AWS Shanghai AI Lab, working closely with Prof. <a href="https://frcchang.github.io/">Prof. Yue Zhang</a> and Prof. <a href="https://research.shanghai.nyu.edu/cn/centers-and-institutes/datascience/people/zheng-zhang">Prof. Zheng Zhang</a>. Before joining Fudan, I received my bachelor degree in Computer Science from Special Gifted Young Program at Xi'an Jiaotong University in 2021.
         </p>
     </div>
 </div>
