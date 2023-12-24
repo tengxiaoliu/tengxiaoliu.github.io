@@ -9,6 +9,6 @@ Learn more
 {{< /button >}}
 {{< alert "circle-info" >}}
 <div style="text-align: left;">
-I will be attending EMNLP 2023 in person. Please feel free to reach out, I'd love to chat!
+I am actively looking for PhD position in NLP starting Fall 2024! I will be attending EMNLP 2023 in person. Please feel free to reach out, I'd love to chat!
 </div>
 {{< /alert >}}

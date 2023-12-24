@@ -26,7 +26,7 @@ showTableOfContents= false
     </div>
 </div>
 
-I am interested in natural language processing and applications of generative language models, with a particular focus on building reliable learning systems that can perform complex reasoning tasks. 
+I am interested in natural language processing and applications of generative language models, with a particular focus on building reliable learning systems that can perform complex reasoning tasks for the common good. 
 
 
 [\[Github\]](https://github.com/tengxiaoliu/) [\[CV\]](https://tengxiaoliu.github.io/file/cv_Tengxiao_Liu.pdf) 
