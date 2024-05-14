@@ -76,7 +76,6 @@ I am interested in natural language processing and applications of generative la
   Undergraduate research assistant at Big Data in Radiology, UCSF, advised by Jae Ho Sohn, MD, MS
 
 * **University of Alberta** (Summer 2019)\
-  
   International Undergraduate Summer Enrichment Program: Excellence, Department of Mathematical and Statistical Sciences, advised by Prof. Linglong Kong
 
 
