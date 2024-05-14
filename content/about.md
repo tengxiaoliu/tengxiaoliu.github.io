@@ -42,7 +42,7 @@ I am interested in natural language processing and applications of generative la
   GPA: 91.92 / 100, Ranking: 2 / 32
 
 * **University of California, Berkeley** (Spring 2020)\
-  GPA: 4.0 / 4.0, Berkeley International Study Program - Letters & Science (Computer Science)
+  GPA: 4.0 / 4.0, Berkeley International Study Program (Math & Computer Science)
 
 ## Publications
 
@@ -76,7 +76,9 @@ I am interested in natural language processing and applications of generative la
   Undergraduate research assistant at Big Data in Radiology, UCSF, advised by Jae Ho Sohn, MD, MS
 
 * **University of Alberta** (Summer 2019)\
-  Heart disease research using statistical machine learning, advised by Prof. Linglong Kong
+  
+  International Undergraduate Summer Enrichment Program: Excellence, Department of Mathematical and Statistical Sciences, advised by Prof. Linglong Kong
+
 
 <!-- ## Professional Services
 Reviewer for AACL 2022 -->
