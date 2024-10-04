@@ -1,9 +1,10 @@
 +++
-description= "Tengxiao Liu, Fudan University"
+description= "Tengxiao Liu, UC Santa Barbara"
 title= "About"
 layout= "simple"
 type= "about"
 showTableOfContents= false
+
 +++
 
 <style>
@@ -22,10 +23,11 @@ showTableOfContents= false
     </div>
     <div>
         <p style="text-align: justify;">
-            I'm Tengxiao Liu, a third-year MSc student at Fudan University, advised by Prof. <a href="https://xpqiu.github.io">Xipeng Qiu</a>. Meanwhile, I'm currently a research intern at AWS Shanghai AI Lab, working closely with Prof. <a href="https://frcchang.github.io/">Prof. Yue Zhang</a> and Prof. <a href="https://research.shanghai.nyu.edu/cn/centers-and-institutes/datascience/people/zheng-zhang">Prof. Zheng Zhang</a>. Before joining Fudan, I received my bachelor degree in Computer Science from Special Gifted Young Program at Xi'an Jiaotong University in 2021.
+            I'm Tengxiao Liu, a first-year Ph.D. student at University of California, Santa Barbara, advised by Prof. <a href="https://sites.cs.ucsb.edu/~william/">William Wang</a>. I obtained my Master's at Fudan University, advised by Prof. <a href="https://xpqiu.github.io">Xipeng Qiu</a>. I was fortunate to work as a research intern at the AWS Shanghai AI Lab, collaborating closely with Prof. <a href="https://frcchang.github.io/">Prof. Yue Zhang</a> and Prof. <a href="https://research.shanghai.nyu.edu/cn/centers-and-institutes/datascience/people/zheng-zhang">Prof. Zheng Zhang</a>. I received my bachelor degree in Computer Science from Special Gifted Young Program at Xi'an Jiaotong University in 2021.
         </p>
     </div>
 </div>
+
 
 I am interested in natural language processing and applications of generative language models, with a particular focus on building reliable learning systems that can perform complex reasoning tasks for the common good. 
 
@@ -33,31 +35,34 @@ I am interested in natural language processing and applications of generative la
 
 ## Education
 
-* **Fudan University** (2021 - expected 2024)\
+* **University of California, Santa Barbara** (2024 -  Present)\
+  Ph.D. in Computer Science \
+  Supervisor: Prof. William Wang
+* **Fudan University** (2021 -  2024)\
   Master of Science in Computer Science \
   Supervisor: Prof. Xipeng Qiu
-
 * **Xi'an Jiaotong University** (2017 - 2021)\
   Bachelor of Honors Science Program (Computer Science), [Special Class for the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) \
   GPA: 91.92 / 100, Ranking: 2 / 32
-
 * **University of California, Berkeley** (Spring 2020)\
   GPA: 4.0 / 4.0, Berkeley International Study Program (Math & Computer Science)
 
-## Publications
+## Selected Publications
 
+* **Can Language Models Learn to Skip Steps?**\
+
+  **Tengxiao Liu**, Qipeng Guo, Xiangkun Hu, Jiayang Cheng, Yue Zhang, Xipeng Qiu, Zheng Zhang\
+
+  NeurIPS, 2024
+
+* **Full Parameter Fine-tuning for Large Language Models with Limited Resources** [[paper]](https://arxiv.org/pdf/2306.09782.pdf)\
+  Kai Lv, Yuqing Yang, **Tengxiao Liu**, Qinghui Gao, Qipeng Guo, Xipeng Qiu\
+  ACL, 2024 (oral)
+  
 * **Plan, Verify and Switch: Integrated Reasoning with Diverse X-of-Thoughts** [[paper]](https://arxiv.org/pdf/2310.14628v1.pdf)\
   **Tengxiao Liu**, Qipeng Guo, Yuqing Yang, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang\
   EMNLP, 2023\
   NeurIPS 2023 MATH-AI Workshop
-
-* **CoLLiE: Collaborative Training of Large Language Models in an Efficient Way** [[paper]]()\
-  Kai Lv, Shuo Zhang, Tianle Gu, Shuhao Xing, Jiawei Hong, Keyu Chen, Xiaoran Liu, Yuqing Yang, Honglin Guo, **Tengxiao Liu**, Yu Sun, Qipeng Guo, Hang Yan, Xipeng Qiu\
-  EMNLP Demo, 2023
-
-* **Full Parameter Fine-tuning for Large Language Models with Limited Resources** [[paper]](https://arxiv.org/pdf/2306.09782.pdf)\
-  Kai Lv, Yuqing Yang, **Tengxiao Liu**, Qinghui Gao, Qipeng Guo, Xipeng Qiu\
-  Preprint, 2023
 
 * **RLET: A Reinforcement Learning Based Approach for Explainable QA with Entailment Trees** [[paper]](https://www.aclanthology.org/2022.emnlp-main.483.pdf)\
   **Tengxiao Liu**, Qipeng Guo, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang\
@@ -69,7 +74,7 @@ I am interested in natural language processing and applications of generative la
 
 ## Experience
 
-* **Amazon AWS AI** (Mar 2021 - Present)\
+* **Amazon AWS AI** (Mar 2021 - Aug 2024)\
   Research intern at AWS Shanghai AI Lab, advised by Dr. Qipeng Guo, Prof. Yue Zhang and Prof. Zheng Zhang
 
 * **University of California, San Francisco** (Feb 2020 - Mar 2021)\
@@ -77,7 +82,6 @@ I am interested in natural language processing and applications of generative la
 
 * **University of Alberta** (Summer 2019)\
   International Undergraduate Summer Enrichment Program: Excellence, Department of Mathematical and Statistical Sciences, advised by Prof. Linglong Kong
-
 
 <!-- ## Professional Services
 Reviewer for AACL 2022 -->
