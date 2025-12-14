@@ -1,5 +1,13 @@
 {{ if .Get "default" }}
-  {{ template "_internal/shortcodes/figure.html" . }}
+  {{/* Fallback to basic figure implementation when default=true */}}
+  <figure{{ with .Get "class" }} class="{{ . }}"{{ end }}>
+    {{- if .Get "href" -}}<a href="{{ .Get "href" }}">{{- end -}}
+    <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" />
+    {{- if .Get "href" }}</a>{{- end -}}
+    {{- with .Get "caption" -}}
+      <figcaption>{{ . | markdownify }}</figcaption>
+    {{- end -}}
+  </figure>
 {{ else }}
   {{ $url := urls.Parse (.Get "src") }}
   {{ $altText := .Get "alt" }}
