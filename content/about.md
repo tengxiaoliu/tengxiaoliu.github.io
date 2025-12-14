@@ -19,7 +19,7 @@ showTableOfContents= false
 <div>
     <div style="width: 28%; float: right!important; margin-left: 3rem;">
         <img src="https://tengxiaoliu.github.io/author.jpg" width="80%" alt="Image">
-        <figcaption style="text-align: center; font-style: italic;">Qiandao Lake, March 2023</figcaption>
+        <figcaption style="text-align: center; font-style: italic;">Qiandao Lake, March 2023<br>tengxiao at ucsb dot edu</figcaption>
     </div>
     <div>
         <p style="text-align: justify;">
@@ -31,7 +31,7 @@ showTableOfContents= false
 
 I am interested in natural language processing and applications of generative language models, with a particular focus on building reliable learning systems that can perform complex reasoning tasks for the common good. 
 
-[\[Github\]](https://github.com/tengxiaoliu/) [\[CV\]](https://tengxiaoliu.github.io/file/cv_Tengxiao_Liu.pdf) 
+[\[Github\]](https://github.com/tengxiaoliu/) [\[CV\]](https://tengxiaoliu.github.io/file/cv_Tengxiao_Liu.pdf) [\[Google Scholar\]](https://scholar.google.com/citations?user=kWw5p-IAAAAJ&hl=en/) 
 
 ## Education
 
@@ -49,10 +49,8 @@ I am interested in natural language processing and applications of generative la
 
 ## Selected Publications
 
-* **Can Language Models Learn to Skip Steps?**\
-
+* **Can Language Models Learn to Skip Steps?** [[paper]](https://arxiv.org/pdf/2411.01855)\
   **Tengxiao Liu**, Qipeng Guo, Xiangkun Hu, Jiayang Cheng, Yue Zhang, Xipeng Qiu, Zheng Zhang\
-
   NeurIPS, 2024
 
 * **Full Parameter Fine-tuning for Large Language Models with Limited Resources** [[paper]](https://arxiv.org/pdf/2306.09782.pdf)\
@@ -78,7 +76,7 @@ I am interested in natural language processing and applications of generative la
   Research intern at AWS Shanghai AI Lab, advised by Dr. Qipeng Guo, Prof. Yue Zhang and Prof. Zheng Zhang
 
 * **University of California, San Francisco** (Feb 2020 - Mar 2021)\
-  Undergraduate research assistant at Big Data in Radiology, UCSF, advised by Jae Ho Sohn, MD, MS
+  Undergraduate research assistant at Big Data in Radiology, UCSF, advised by Prof. Jae Ho Sohn
 
 * **University of Alberta** (Summer 2019)\
   International Undergraduate Summer Enrichment Program: Excellence, Department of Mathematical and Statistical Sciences, advised by Prof. Linglong Kong
