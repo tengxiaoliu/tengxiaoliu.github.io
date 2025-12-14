@@ -1,36 +1,41 @@
 # .github/workflows/gh-pages.yml
+# 
+# GitHub Actions 工作流已禁用
+# 使用本地部署脚本 deploy.sh 进行部署，速度更快
+#
+# 如需重新启用，取消下面的注释并修复分支名称（main -> master）
 
-name: GitHub Pages
-
-on:
-  push:
-    branches:
-      - master # change to the branch name for your project
-
-jobs:
-  build-deploy:
-    runs-on: ubuntu-20.04
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-        with:
-          submodules: true
-          fetch-depth: 0
-
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: "latest"
-
-      - name: Build
-        run: hugo --minify
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh-pages
-          publish_dir: ./public
+# name: GitHub Pages
+# 
+# on:
+#   push:
+#     branches:
+#       - master
+# 
+# jobs:
+#   build-deploy:
+#     runs-on: ubuntu-20.04
+#     concurrency:
+#       group: ${{ github.workflow }}-${{ github.ref }}
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@v2
+#         with:
+#           submodules: true
+#           fetch-depth: 0
+# 
+#       - name: Setup Hugo
+#         uses: peaceiris/actions-hugo@v2
+#         with:
+#           hugo-version: "latest"
+# 
+#       - name: Build
+#         run: hugo --minify
+# 
+#       - name: Deploy
+#         uses: peaceiris/actions-gh-pages@v3
+#         if: ${{ github.ref == 'refs/heads/master' }}
+#         with:
+#           github_token: ${{ secrets.GITHUB_TOKEN }}
+#           publish_branch: gh-pages
+#           publish_dir: ./public
