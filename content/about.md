@@ -30,8 +30,8 @@ showTableOfContents= false
 
 
 
-I work on natural language processing and generative language models. My current research focuses on:
-
+I work on natural language processing and generative language models.\
+My current research focuses on:
 * Efficient agentic systems for web search, coding, and long-horizon tasks
 * Post-training techniques to improve reasoning and reliability in LLMs
 * Scalable synthetic data generation pipelines for scientific and real-world domains
