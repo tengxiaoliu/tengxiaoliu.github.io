@@ -19,35 +19,40 @@ showTableOfContents= false
 <div>
     <div style="width: 28%; float: right!important; margin-left: 3rem;">
         <img src="https://tengxiaoliu.github.io/author.jpg" width="80%" alt="Image">
-        <figcaption style="text-align: center; font-style: italic;">Qiandao Lake, March 2023<br>tengxiao at ucsb dot edu</figcaption>
+        <figcaption style="text-align: center; font-style: italic;">tengxiao at ucsb dot edu<br>My name in Chinese: 刘腾霄</figcaption>
     </div>
     <div>
         <p style="text-align: justify;">
-            I'm Tengxiao Liu, a first-year Ph.D. student at University of California, Santa Barbara, advised by Prof. <a href="https://sites.cs.ucsb.edu/~william/">William Wang</a>. I obtained my Master's at Fudan University, advised by Prof. <a href="https://xpqiu.github.io">Xipeng Qiu</a>. I was fortunate to work as a research intern at the AWS Shanghai AI Lab, collaborating closely with Prof. <a href="https://frcchang.github.io/">Prof. Yue Zhang</a> and Prof. <a href="https://research.shanghai.nyu.edu/cn/centers-and-institutes/datascience/people/zheng-zhang">Prof. Zheng Zhang</a>. I received my bachelor degree in Computer Science from Special Gifted Young Program at Xi'an Jiaotong University in 2021.
+            I'm Tengxiao Liu, a second-year Ph.D. student at University of California, Santa Barbara, advised by Prof. <a href="https://sites.cs.ucsb.edu/~william/">William Wang</a>. I obtained my Master's at Fudan University, advised by Prof. <a href="https://xpqiu.github.io">Xipeng Qiu</a>. I was fortunate to work closely with Prof. <a href="https://frcchang.github.io/">Prof. Yue Zhang</a> and Prof. <a href="https://research.shanghai.nyu.edu/cn/centers-and-institutes/datascience/people/zheng-zhang">Prof. Zheng Zhang</a> at AWS Shanghai AI Lab. I received my bachelor degree in Computer Science at Xi'an Jiaotong University.
         </p>
     </div>
 </div>
 
 
-I am interested in natural language processing and applications of generative language models, with a particular focus on building reliable learning systems that can perform complex reasoning tasks for the common good. 
 
-[\[Github\]](https://github.com/tengxiaoliu/) [\[CV\]](https://tengxiaoliu.github.io/file/cv_Tengxiao_Liu.pdf) [\[Google Scholar\]](https://scholar.google.com/citations?user=kWw5p-IAAAAJ&hl=en/) 
+I work on natural language processing and generative language models. My current research focuses on:
 
-## Education
+* Efficient agentic systems for web search, coding, and long-horizon tasks
 
-* **University of California, Santa Barbara** (2024 -  Present)\
-  Ph.D. in Computer Science \
-  Supervisor: Prof. William Wang
-* **Fudan University** (2021 -  2024)\
-  Master of Science in Computer Science \
-  Supervisor: Prof. Xipeng Qiu
-* **Xi'an Jiaotong University** (2017 - 2021)\
-  Bachelor of Honors Science Program (Computer Science), [Special Class for the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) \
-  GPA: 91.92 / 100, Ranking: 2 / 32
-* **University of California, Berkeley** (Spring 2020)\
-  GPA: 4.0 / 4.0, Berkeley International Study Program (Math & Computer Science)
+* Post-training techniques to improve reasoning and reliability in LLMs
+
+* Scalable synthetic data generation pipelines for scientific and real-world domains
+
+
+
+[\[Github\]](https://github.com/tengxiaoliu/) [\[CV\]](https://tengxiaoliu.github.io/file/cv_Tengxiao_Liu.pdf) [\[Google Scholar\]](https://scholar.google.com/citations?user=kWw5p-IAAAAJ&hl=en/) [\[LinkedIn\]](https://www.linkedin.com/in/tengxiaoliu/)
+
+
 
 ## Selected Publications
+
+* **Budget-Aware Tool-Use Enables Effective Agent Scaling** [[paper]](https://arxiv.org/pdf/2411.01855) [[media]](https://venturebeat.com/ai/googles-new-framework-helps-ai-agents-spend-their-compute-and-tool-budget)\
+  **Tengxiao Liu**, Zifeng Wang, Jin Miao, I-Hung Hsu, Jun Yan, Jiefeng Chen, Rujun Han, Fangyuan Xu, Yanfei Chen, Ke Jiang, Samira Daruki, Yi Liang, William Yang Wang, Tomas Pfister, Chen-Yu Lee\
+  Preprint, 2025
+
+* **WildSci: Advancing Scientific Reasoning from In-the-Wild Literature** [[paper]](https://neurips.cc/virtual/2025/loc/san-diego/125839)\
+  **Tengxiao Liu**, Deepak Nathani, Zekun Li, Kevin Yang, William Yang Wang\
+  NeurIPS AI4Sci Workshop, 2025
 
 * **Can Language Models Learn to Skip Steps?** [[paper]](https://arxiv.org/pdf/2411.01855)\
   **Tengxiao Liu**, Qipeng Guo, Xiangkun Hu, Jiayang Cheng, Yue Zhang, Xipeng Qiu, Zheng Zhang\
@@ -59,18 +64,20 @@ I am interested in natural language processing and applications of generative la
   
 * **Plan, Verify and Switch: Integrated Reasoning with Diverse X-of-Thoughts** [[paper]](https://arxiv.org/pdf/2310.14628v1.pdf)\
   **Tengxiao Liu**, Qipeng Guo, Yuqing Yang, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang\
-  EMNLP, 2023\
-  NeurIPS 2023 MATH-AI Workshop
+  NeurIPS 2023 MATH-AI Workshop\
+  EMNLP, 2023
+  
 
 * **RLET: A Reinforcement Learning Based Approach for Explainable QA with Entailment Trees** [[paper]](https://www.aclanthology.org/2022.emnlp-main.483.pdf)\
   **Tengxiao Liu**, Qipeng Guo, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang\
   EMNLP, 2022
 
-* **Application of a Domain-specific BERT for Detection of Speech Recognition Errors in Radiology Reports** [[paper]](https://pubmed.ncbi.nlm.nih.gov/35923373/)\
-  Gunvant R. Chaudhari, **Tengxiao Liu**, Timothy L. Chen, Gabby B. Joseph, Maya Vella, Yoo Jin Lee, Thienkhai H. Vu, Youngho Seo, Andreas M. Rauschecker, Charles E. McCulloch, Jae Ho Sohn\
-  Radiology: Artificiall Intelligence, 2022
+
 
 ## Experience
+
+* **Google Cloud AI Research** (Summer 2025)\
+  Student researcher, advised by Dr. Zifeng Wang
 
 * **Amazon AWS AI** (Mar 2021 - Aug 2024)\
   Research intern at AWS Shanghai AI Lab, advised by Dr. Qipeng Guo, Prof. Yue Zhang and Prof. Zheng Zhang
@@ -78,8 +85,7 @@ I am interested in natural language processing and applications of generative la
 * **University of California, San Francisco** (Feb 2020 - Mar 2021)\
   Undergraduate research assistant at Big Data in Radiology, UCSF, advised by Prof. Jae Ho Sohn
 
-* **University of Alberta** (Summer 2019)\
-  International Undergraduate Summer Enrichment Program: Excellence, Department of Mathematical and Statistical Sciences, advised by Prof. Linglong Kong
+
 
 <!-- ## Professional Services
 Reviewer for AACL 2022 -->
