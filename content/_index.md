@@ -8,6 +8,6 @@ Learn more
 {{< /button >}}
 {{< alert "circle-info" >}}
 <div style="text-align: left;">
-Introducing 🦇 [BATS](https://arxiv.org/pdf/2511.17006),check out our work on how budget awareness enables effective agent scaling!
+Introducing 🦇 <a href="https://arxiv.org/pdf/2511.17006" target="_blank">BATS</a>, check out our work on how budget awareness enables effective agent scaling!
 </div>
 {{< /alert >}}

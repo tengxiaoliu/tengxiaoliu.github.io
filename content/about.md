@@ -19,7 +19,7 @@ showTableOfContents= false
 <div>
     <div style="width: 28%; float: right!important; margin-left: 3rem;">
         <img src="https://tengxiaoliu.github.io/author.jpg" width="80%" alt="Image">
-        <figcaption style="text-align: center; font-style: italic;">tengxiao at ucsb dot edu<br>My name in Chinese: 刘腾霄</figcaption>
+        <figcaption style="text-align: center; ">tengxiao at ucsb dot edu<br>My name in Chinese: 刘腾霄</figcaption>
     </div>
     <div>
         <p style="text-align: justify;">
@@ -33,9 +33,7 @@ showTableOfContents= false
 I work on natural language processing and generative language models. My current research focuses on:
 
 * Efficient agentic systems for web search, coding, and long-horizon tasks
-
 * Post-training techniques to improve reasoning and reliability in LLMs
-
 * Scalable synthetic data generation pipelines for scientific and real-world domains
 
 
