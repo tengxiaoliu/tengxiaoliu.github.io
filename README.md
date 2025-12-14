@@ -75,6 +75,8 @@ hugo server
    - 切换到 gh-pages 分支
    - 更新静态文件
    - 提交并推送到远程
+   
+   **注意**：`deploy.sh` 脚本已包含在仓库中，如果找不到，确保你在 `master` 分支上。
 
 4. **完成！** 网站会在几分钟内更新
 
@@ -172,7 +174,36 @@ which hugo
 export PATH="/opt/homebrew/bin:$PATH"
 ```
 
+### 部署脚本找不到
+
+如果提示 `./deploy.sh: No such file or directory`：
+
+1. **检查当前分支**
+   ```bash
+   git branch --show-current
+   # 确保在 master 分支
+   git checkout master
+   ```
+
+2. **检查文件是否存在**
+   ```bash
+   ls -la deploy.sh
+   ```
+
+3. **如果文件不存在，从仓库拉取**
+   ```bash
+   git pull origin master
+   ```
+
+4. **如果仍然没有，检查是否在正确的目录**
+   ```bash
+   pwd
+   # 应该显示: .../tengxiaoliu.github.io
+   ```
+
 ### 部署脚本权限错误
+
+如果提示 `permission denied`：
 
 ```bash
 chmod +x deploy.sh
@@ -191,6 +222,26 @@ chmod +x deploy.sh
 - 检查 gh-pages 分支是否成功推送
 - 清除浏览器缓存后重试
 
+### 部署脚本检测到未提交的更改
+
+如果运行 `./deploy.sh` 时提示"检测到未提交的更改"：
+
+1. **先提交所有更改**
+   ```bash
+   git add .
+   git commit -m "你的提交信息"
+   ```
+
+2. **然后运行部署脚本**
+   ```bash
+   ./deploy.sh "你的提交信息"
+   ```
+
+   或者，如果你想继续部署（不推荐）：
+   ```bash
+   echo "y" | ./deploy.sh "你的提交信息"
+   ```
+
 ## 📚 相关链接
 
 - [Hugo 文档](https://gohugo.io/documentation/)
@@ -204,4 +255,32 @@ chmod +x deploy.sh
 ---
 
 **最后更新**: 2025-12-14
+
+## 💡 部署流程总结
+
+完整的部署流程（从修改到上线）：
+
+```bash
+# 1. 确保在 master 分支
+git checkout master
+
+# 2. 修改内容（编辑文件）
+
+# 3. 提交更改
+git add .
+git commit -m "更新内容描述"
+
+# 4. 推送到 master 分支（可选，但推荐）
+git push origin master
+
+# 5. 部署到网站
+./deploy.sh "更新内容描述"
+
+# 6. 完成！网站会在几分钟内更新
+```
+
+**提示**：
+- `deploy.sh` 脚本会自动处理所有部署步骤
+- 如果脚本提示有未提交的更改，先提交再部署
+- 部署完成后会自动切换回 master 分支
 
