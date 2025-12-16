@@ -44,7 +44,7 @@ My current research focuses on:
 
 ## Selected Publications
 
-* **Budget-Aware Tool-Use Enables Effective Agent Scaling** [[paper]](https://arxiv.org/pdf/2411.01855) [[media]](https://venturebeat.com/ai/googles-new-framework-helps-ai-agents-spend-their-compute-and-tool-budget)\
+* **Budget-Aware Tool-Use Enables Effective Agent Scaling** [[paper]](https://arxiv.org/pdf/2511.17006) [[media]](https://venturebeat.com/ai/googles-new-framework-helps-ai-agents-spend-their-compute-and-tool-budget)\
   **Tengxiao Liu**, Zifeng Wang, Jin Miao, I-Hung Hsu, Jun Yan, Jiefeng Chen, Rujun Han, Fangyuan Xu, Yanfei Chen, Ke Jiang, Samira Daruki, Yi Liang, William Yang Wang, Tomas Pfister, Chen-Yu Lee\
   Preprint, 2025
 
